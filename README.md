@@ -51,4 +51,4 @@ dio: ^4.0.6
 
 ## ~/lib/*
 
-Todos los ficheros necesarios para el diseño y funcionalidad de la aplicación
+Todos los ficheros necesarios para el diseño y funcionalidad de la aplicación.
